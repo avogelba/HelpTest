@@ -1,5 +1,9 @@
 # HelpTest
 
+<img src="https://github.com/avogelba/HelpTest/blob/master/screenshot.jpg"
+ alt="Screenshot" title="Screenshot" align="right" />
+ 
+
 Was created to show something for CodeProject Article
 	
 [A Programmable Desktop HTML Help Builder](https://www.codeproject.com/Articles/1233450/A-Programmable-Desktop-HTML-Help-Builder)
