@@ -1,13 +1,6 @@
 # HelpTest
 
-<img src="https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg"
- alt="Screenshot" title="Screenshot" align="right" />
-
-
-
-
-
- 
+![Screenshot](https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg)
 
 Was created to show something for CodeProject Article
 	
