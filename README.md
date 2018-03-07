@@ -1,6 +1,6 @@
 # HelpTest
 
-<img src="https://github.com/avogelba/HelpTest/blob/master/screenshot.jpg"
+<img src="https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg"
  alt="Screenshot" title="Screenshot" align="right" />
  
 
