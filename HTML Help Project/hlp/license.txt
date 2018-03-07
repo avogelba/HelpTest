@@ -1,0 +1,4 @@
+Files in this directory and subdirectories belog to article
+	https://www.codeproject.com/Articles/1233450/A-Programmable-Desktop-HTML-Help-Builder?msg=5497915#xx5497915xx
+from Michael B Pliam
+	and are licensed under The Code Project Open License (CPOL)

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="KEL CHM Creator v.1.4.0.0">
+<!-- Sitemap 1.0 -->
+</HEAD>
+<BODY>
+<OBJECT type="text/site properties">
+	<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help Credits">
+		<param name="Name" value="Help Credits">
+		<param name="Local" value="hlp\Credits.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help Disclaimer">
+		<param name="Name" value="Help Disclaimer">
+		<param name="Local" value="hlp\Disclaimer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help FAQs">
+		<param name="Name" value="Help FAQs">
+		<param name="Local" value="hlp\FAQS.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help How to Use Application">
+		<param name="Name" value="Help How to Use Application">
+		<param name="Local" value="hlp\HowToUse.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help License Agreement">
+		<param name="Name" value="Help License Agreement">
+		<param name="Local" value="hlp\License.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help Miscellaneous">
+		<param name="Name" value="Help Miscellaneous">
+		<param name="Local" value="hlp\Miscellaneous.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help Options">
+		<param name="Name" value="Help Options">
+		<param name="Local" value="hlp\Options.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Help Support">
+		<param name="Name" value="Help Support">
+		<param name="Local" value="hlp\Support.htm">
+		</OBJECT>
+</UL>
+</BODY>
+</HTML>

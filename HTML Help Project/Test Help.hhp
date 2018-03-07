@@ -1,0 +1,33 @@
+
+[INFOTYPES]
+
+[OPTIONS]
+Auto Index=Yes
+Binary Index=Yes
+Binary TOC=No
+Compatibility=1.1 or later
+Compiled File=Test Help.chm
+Contents File=Test Help.hhc
+Index File=Test Help.hhk
+Error log file=Test Help.log.txt
+Full-text search=Yes
+Language=0x409 English (United States)
+Title=Title
+Default Topic=hlp\License.htm
+Default Window=
+Default Font=Arial, 9, 000
+Create CHI file=No
+Full text search stop list file=
+Display compile notes=Yes
+Display compile progress=Yes
+
+[FILES]
+hlp\Contents.htm
+hlp\Credits.htm
+hlp\Disclaimer.htm
+hlp\FAQS.htm
+hlp\HowToUse.htm
+hlp\License.htm
+hlp\Miscellaneous.htm
+hlp\Options.htm
+hlp\Support.htm
