@@ -2,6 +2,11 @@
 
 <img src="https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg"
  alt="Screenshot" title="Screenshot" align="right" />
+
+
+
+
+
  
 
 Was created to show something for CodeProject Article
