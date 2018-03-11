@@ -4,14 +4,14 @@ Table of Contents
 =================
 
 <!--ts-->
-  * [Description](#Description)
-  * [Conditions](#Conditions)
-  * [Optional](#Optional)
-  * [Caution](#Caution)
+  * [Description](#description)
+  * [Conditions](#conditions)
+  * [Optional](#optional)
+  * [Caution](#caution)
 <!--te-->
 
 Description
-=================
+===========
 
 ![Screenshot](https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg)
 
@@ -20,7 +20,7 @@ Was created to show something for CodeProject Article
 [A Programmable Desktop HTML Help Builder](https://www.codeproject.com/Articles/1233450/A-Programmable-Desktop-HTML-Help-Builder)
 
 Conditions
-=================
+==========
 
 For this project you need:
 
@@ -31,12 +31,12 @@ For this project you need:
 (or at least hhc.exe)
 
 Optional
-=================
+========
 
 - [KEL CHM Creator](https://dumah7.wordpress.com/2009/02/17/kel-chm-creator-v-1-4-0-0/)
 
 Caution
-=================
+=======
 
 Be aware of a nasty bug with .CHM if path contains '#' character.
 
