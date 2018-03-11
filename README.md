@@ -4,10 +4,15 @@ Table of Contents
 =================
 
 <!--ts-->
-  * [Description](#description)
-  * [Conditions](#conditions)
-  * [Optional](#optional)
-  * [Caution](#caution)
+   * [HelpTest](#helptest)
+   * [Table of Contents](#table-of-contents)
+   * [Description](#description)
+   * [Conditions](#conditions)
+   * [Optional](#optional)
+   * [Caution](#caution)
+
+<!-- Added by: root, at: 2018-03-11T01:09+01:00 -->
+
 <!--te-->
 
 Description
