@@ -1,0 +1,5 @@
+*.html linguist-vendored=false
+*.htm linguist-vendored=false
+*.cs linguist-vendored=true
+HTML Help Project/* linguist-documentation
+HTML Help Project/* linguist-vendored
