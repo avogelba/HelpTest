@@ -2,13 +2,17 @@
 
 Table of Contents
 =================
+
+<!--ts-->
   * [Description](#Description)
   * [Conditions](#Conditions)
   * [Optional](#Optional)
   * [Caution](#Caution)
+<!--te-->
 
 Description
 =================
+
 ![Screenshot](https://github.com/avogelba/HelpTest/blob/master/Screenshot.jpg)
 
 Was created to show something for CodeProject Article
@@ -17,6 +21,7 @@ Was created to show something for CodeProject Article
 
 Conditions
 =================
+
 For this project you need:
 
 - Visual Studio 2017 (but older version may work)
@@ -32,6 +37,7 @@ Optional
 
 Caution
 =================
+
 Be aware of a nasty bug with .CHM if path contains '#' character.
 
 Se also [MSDN Blog](https://blogs.msdn.microsoft.com/neerajag/2006/04/26/ever-wondered-why-your-chm-files-does-not-work/)
