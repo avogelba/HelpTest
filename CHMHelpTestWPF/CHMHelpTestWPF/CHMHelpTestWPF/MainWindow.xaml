@@ -1,0 +1,20 @@
+﻿<Window x:Class="CHMHelpTestWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CHMHelpTestWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="378" Width="356"
+        xmlns:help="clr-namespace:HelpProvider"
+        help:Help.Filename="Test Help.chm">
+    <Grid>
+        <Button x:Name="btnIndexOfHelp" Content="Show Help Index" ToolTip="Show Help Index Test" ToolTipOpening="btnIndexOfHelp_ToolTip_Opening" ToolTipClosing="btnIndexOfHelp_ToolTip_Closing" Margin="39,26,34,286" Click="btnIndexOfHelp_Click"/>
+        <Button x:Name="btnShowPopUp" Content="Show PopUp" ToolTip="PopUp Test" Margin="39,90,34,222" Click="btnShowPopUp_Click"/>
+        <Button x:Name="btnShowContents" Content="Show Chapter Contens" ToolTip="Jumpt to Contens" Margin="39,154,34,158" Click="btnShowContents_Click"/>
+        <Button x:Name="btnShowMiscellaneous" Content="Show Chapter Miscellaneous" ToolTip="Jumpt to Miscellaneous" Margin="39,219,34,93" Click="btnShowMiscellaneous_Click"/>
+        <TextBox help:Help.Keyword="MyKeyword" Text="Keyword based search. Press F1" ToolTip="Keyword searcher" Margin="39,290,34,10" />
+    </Grid>
+   
+   
+</Window>

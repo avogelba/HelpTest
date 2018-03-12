@@ -37,5 +37,17 @@ namespace CHMHelpTest
         {
             Help.ShowHelp(this, myHelpfile, "/hlp/Contents.htm");
         }
+
+        private void showPopUp_Click(object sender, EventArgs e)
+        {
+            Point showPopUpLoc = showPopUp.FindForm().PointToClient(
+                            showPopUp.Parent.PointToScreen(showPopUp.Location)
+                            );
+                        
+
+            Help.ShowPopup(this, "My PopUp", showPopUp.PointToScreen(Point.Empty));
+
+
+        }
     }
 }

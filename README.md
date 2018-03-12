@@ -24,6 +24,9 @@ Was created to show something for CodeProject Article
 	
 [A Programmable Desktop HTML Help Builder](https://www.codeproject.com/Articles/1233450/A-Programmable-Desktop-HTML-Help-Builder)
 
+The WPF Version is a playground and contains Help-Class from
+[Easy Help with WPF](https://www.codeproject.com/Articles/36117/Easy-help-with-WPF)
+
 Conditions
 ==========
 

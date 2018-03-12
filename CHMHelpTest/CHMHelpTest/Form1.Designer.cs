@@ -36,6 +36,7 @@
             this.showContents = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.showPopUp = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // indexOfHelp
@@ -49,7 +50,7 @@
             // 
             // showMiscellaneous
             // 
-            this.showMiscellaneous.Location = new System.Drawing.Point(64, 124);
+            this.showMiscellaneous.Location = new System.Drawing.Point(64, 185);
             this.showMiscellaneous.Name = "showMiscellaneous";
             this.showMiscellaneous.Size = new System.Drawing.Size(157, 32);
             this.showMiscellaneous.TabIndex = 4;
@@ -58,16 +59,26 @@
             // 
             // showContents
             // 
-            this.showContents.Location = new System.Drawing.Point(64, 67);
+            this.showContents.Location = new System.Drawing.Point(64, 129);
             this.showContents.Name = "showContents";
             this.showContents.Size = new System.Drawing.Size(157, 32);
             this.showContents.TabIndex = 5;
-            this.showContents.Text = "Show Contents";
+            this.showContents.Text = "Show Chapter Contents";
             this.showContents.Click += new System.EventHandler(this.showContents_Click);
+            // 
+            // showPopUp
+            // 
+            this.showPopUp.Location = new System.Drawing.Point(64, 72);
+            this.showPopUp.Name = "showPopUp";
+            this.showPopUp.Size = new System.Drawing.Size(157, 32);
+            this.showPopUp.TabIndex = 6;
+            this.showPopUp.Text = "Show PopUp";
+            this.showPopUp.Click += new System.EventHandler(this.showPopUp_Click);
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(276, 168);
+            this.ClientSize = new System.Drawing.Size(276, 229);
+            this.Controls.Add(this.showPopUp);
             this.Controls.Add(this.showContents);
             this.Controls.Add(this.showMiscellaneous);
             this.Controls.Add(this.indexOfHelp);
@@ -84,6 +95,7 @@
         private System.Windows.Forms.Button showContents;
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.HelpProvider helpProvider1;
+        private System.Windows.Forms.Button showPopUp;
     }
 }
 
